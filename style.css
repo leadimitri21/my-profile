@@ -60,7 +60,7 @@ padding: 15px 20px;
 border-radius: 4px;
 }
 .btn-purple:hover {
-background-color: grey;
+background-color: red;
 color: white;
 }
 .list-inline {
